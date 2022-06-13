@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerard Briscoe</title>
+    <link>https://gerardbriscoe.github.io/</link>
+      <atom:link href="https://gerardbriscoe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerard Briscoe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gerardbriscoe.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Gerard Briscoe</title>
+      <link>https://gerardbriscoe.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Corona Trends</title>
+      <link>https://gerardbriscoe.github.io/portfolio/coronatrends/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/coronatrends/</guid>
+      <description>&lt;p&gt;&lt;a class=&#34;btn btn-outline-primary my-1&#34; href=&#34;https://coronatrends.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot&#34; srcset=&#34;
+               /portfolio/coronatrends/sample_huc2f7902edb08eaa78faddd419e3e409e_241324_edbded25caa1b70f4b86da85c08be0d1.webp 400w,
+               /portfolio/coronatrends/sample_huc2f7902edb08eaa78faddd419e3e409e_241324_d5dbbc8ba70a799071bcc7e963eb4286.webp 760w,
+               /portfolio/coronatrends/sample_huc2f7902edb08eaa78faddd419e3e409e_241324_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/coronatrends/sample_huc2f7902edb08eaa78faddd419e3e409e_241324_edbded25caa1b70f4b86da85c08be0d1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;There is a lack of graphs focusing on cities, especially in showing their current and trending situation. So, using &lt;a href=&#34;https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/research-projects/2018-projects/global-healthcare-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;past research&lt;/a&gt; on identifying key cities for creating global indices was used to include a selection of 7 cities per region based upon Loughborough University’s &lt;a href=&#34;https://www.lboro.ac.uk/gawc/world2018link.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Link Classification&lt;/a&gt; (connectivity), nation diversity, as well as city, national and regional contributions to Global Domestic Product (GDP).&lt;/p&gt;
+&lt;p&gt;Modified version of the graph created by &lt;a href=&#34;https://aatishb.com/covidtrends/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aatish Bhatia&lt;/a&gt; in collaboration with &lt;a href=&#34;https://www.youtube.com/user/minutephysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minute Physics&lt;/a&gt;. This graph was chosen as it effectively represents &lt;strong&gt;exponential growth&lt;/strong&gt; trends, which is perhaps the most &lt;a href=&#34;https://www.youtube.com/watch?v=Kas0tIxDvrg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenging aspect of pandemics&lt;/a&gt;. The short explainer video is a clip from the Minute Physics &lt;a href=&#34;https://www.youtube.com/watch?v=54XLXg4fYsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explainer video&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;Even now, with lockdown lifted, the geographical unit of most interest in the city. The &lt;a href=&#34;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weekly ONS data&lt;/a&gt; often provide regional estimates, including the city of London. In the process of developing the site I had to most notably develop my parallel processing skills to be able to process the multitude of data sources in a reasonable timeframe for daily updates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lord of The KPIs</title>
+      <link>https://gerardbriscoe.github.io/portfolio/lordofthekpis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/lordofthekpis/</guid>
+      <description>&lt;p&gt;Considering the ‘tyranny of measurement’ from ever-increasing hierarchies of KPIs, and the &lt;a href=&#34;https://en.wikipedia.org/wiki/Rings_of_Power&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;epigraph to the Lord of the Rings&lt;/a&gt; as a suitable metaphor, the following emerged:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Three KPIs for the Professors under reflection,&lt;br&gt;
+Seven for the Directors in their institutes of engagement,&lt;br&gt;
+Nine for Mortal Researchers doomed to die,&lt;br&gt;
+One for the Dark Funder on their dark council&lt;br&gt;
+In the Land of Evaluation where the Impacts lie.&lt;br&gt;
+One KPI to rule them all, One KPI to find them,&lt;br&gt;
+One KPI to bring them all and in the darkness bind them&lt;br&gt;
+In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Lord of The Rings&#34; srcset=&#34;
+               /portfolio/lordofthekpis/lotr_hu7f0968dc4f8fb8e7a96cde9a846563c4_52259_6494a758600821b0545b09e40000555e.webp 400w,
+               /portfolio/lordofthekpis/lotr_hu7f0968dc4f8fb8e7a96cde9a846563c4_52259_c3690259361e9ac20bc9b0926bb61088.webp 760w,
+               /portfolio/lordofthekpis/lotr_hu7f0968dc4f8fb8e7a96cde9a846563c4_52259_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/lordofthekpis/lotr_hu7f0968dc4f8fb8e7a96cde9a846563c4_52259_6494a758600821b0545b09e40000555e.webp&#34;
+               width=&#34;248&#34;
+               height=&#34;348&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;This has so far aged well, and will presumably be appropriate for some time. A major change in academia would be required to invalidate it, either in terms of terminology or abandonment on KPIs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What the Hell?</title>
+      <link>https://gerardbriscoe.github.io/portfolio/wth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/wth/</guid>
+      <description>&lt;p&gt;&lt;a class=&#34;btn btn-outline-primary btn-page-header&#34; href=&#34;https://gerardbriscoe.github.io/wth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of Prototype&#34; srcset=&#34;
+               /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_16cf0d2bdbee03cfddda917598bedcf7.webp 400w,
+               /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_e324250afa3703a82a6e2a8745222d69.webp 760w,
+               /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_16cf0d2bdbee03cfddda917598bedcf7.webp&#34;
+               width=&#34;700&#34;
+               height=&#34;508&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I was working in projects concerning ethical consumers, including the potential for blockchains to potentially demonstrate the provenance of products, including food items. I noted that perhaps more simply what was required was knowledge of brand of products, rather than the full history of a product&amp;rsquo;s origin, because after all one has to believe the information that would be placed on a blockchain. However, given current corporate culture it can be unclear who own&amp;rsquo;s a brand, and whether the owner&amp;rsquo;s values are consistent with a brand&amp;rsquo;s values.&lt;/p&gt;
+&lt;p&gt;I created a tool to determine the ownership of a brand or company. I wanted as self-sustaining solution as possible, so rather than build a complex server to handle queries, I looked for a primarily client-side solution. I realised I need a suitable data source, such as &lt;a href=&#34;https://www.wikipedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;, and a suitable way access interface (API) as client-side data scrapping of wikipedia would not be effective. I discovered &lt;a href=&#34;https://www.dbpedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBpedia&lt;/a&gt; which make Wikipedia information available in a database format, such that one can submit queries in &lt;a href=&#34;https://www.w3.org/TR/sparql11-query/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARQL&lt;/a&gt; query language. I wanted a &lt;a href=&#34;https://www.w3schools.com/html/html_responsive.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive web design&lt;/a&gt; that would provide a web app, as well as a website. I considered that the &lt;a href=&#34;http://getskeleton.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skeleton&lt;/a&gt; CSS library would be sufficient for my needs if building prototype interface.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example GUI To Show Ownership Hierarchy&#34; srcset=&#34;
+               /portfolio/wth/gui_hu29de4adea43818c2f358ce9560aa7ce5_406257_ee39e5dfff67ea826737119feca7cb76.webp 400w,
+               /portfolio/wth/gui_hu29de4adea43818c2f358ce9560aa7ce5_406257_5034614ad198e48d5b50e05db8b3811f.webp 760w,
+               /portfolio/wth/gui_hu29de4adea43818c2f358ce9560aa7ce5_406257_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/wth/gui_hu29de4adea43818c2f358ce9560aa7ce5_406257_ee39e5dfff67ea826737119feca7cb76.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;757&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I subsequently considered creating a more graphical interface, which could show the hierarchy of ownership. I first made use of &lt;a href=&#34;https://d3js.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D3&lt;/a&gt;, before concluding it would probably be better to make a native app.&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;Unlike most web apps and other websites, it has thus far not needed any maintenance or updating. This is primarily because it was built with minimalist user interface technologies, and the underlying technologies for functionality has been remained stable, both in terms of functionality and API.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Highlands</title>
+      <link>https://gerardbriscoe.github.io/portfolio/mobilehighlands/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/mobilehighlands/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;LTE, 3G,&lt;br&gt;
+I miss thee, GPRS,&lt;br&gt;
+Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Highlands Mobile Internet Coverage&#34; srcset=&#34;
+               /portfolio/mobilehighlands/featured_huc20c80d5381923a1d2931cd71e9ac902_393393_1da9e1abc19fcdff5f400fb8c6293818.webp 400w,
+               /portfolio/mobilehighlands/featured_huc20c80d5381923a1d2931cd71e9ac902_393393_75f33231b30e4215ed1ef1f4cad22224.webp 760w,
+               /portfolio/mobilehighlands/featured_huc20c80d5381923a1d2931cd71e9ac902_393393_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/mobilehighlands/featured_huc20c80d5381923a1d2931cd71e9ac902_393393_1da9e1abc19fcdff5f400fb8c6293818.webp&#34;
+               width=&#34;496&#34;
+               height=&#34;413&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;My first Haiku modified from the &lt;a href=&#34;http://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original longer version&lt;/a&gt;. I felt the format would be best supported by an image, which I subsequently applied to original poem.&lt;/p&gt;
+&lt;p&gt;While 5G was not available anywhere in the UK when I wrote this, and remains unavailable in the highlands. In time when it becomes more widely used, I would likely feel the need to update the Haiku.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Touchscreen Thimbles</title>
+      <link>https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_70d91b6ea9c169490e7ca3bbbfda9b26.webp 400w,
+               /portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_55e57570424c838d77c5f03fb1ca7ce6.webp 760w,
+               /portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_70d91b6ea9c169490e7ca3bbbfda9b26.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;603&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We are interested in the challenge that the ever-increasing use of capacity touchscreens represent. This is because they rely on the electrical properties of the human skin, which changes over time, often becoming less conductive with age. So, we consider the potentially increasing problem this would represent, with a layered model of skin interactions, as a frame from which to conceptualise different classes of approaches and better understand the design requirements. Conscious of the need to retain a sense of touch, rather than a stylus with a conductive tip or gloves with conductive finger tips, we then propose suitable thimbles for touchscreens. We conceptualised a touchscreen thimble to be worn on the body that would maintain a sense of touch. So a pros-palliare, rather than a prosthesis.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_4123f8f48306da06d3cee9ad1e0c65cc.webp 400w,
+               /portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_89aa883d1c253dfb7c8d72a4fca782bb.webp 760w,
+               /portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_4123f8f48306da06d3cee9ad1e0c65cc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;353&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The design of the thimble consisting of two essential parts, a rigid cylindrical base, and a thin conductive fabric for the finger tip. Developing a proof of concept prototype, with Jeroen Blom, consisting of a rigid base combined with a conductive fabric for the finger tip, to address the limitations we observed with existing approaches.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_25535_40c022eaa96856cfcf87a9fb136ad069.webp 400w,
+               /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_25535_590fee08751e25a966029709e05689ed.webp 760w,
+               /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_25535_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_25535_40c022eaa96856cfcf87a9fb136ad069.webp&#34;
+               width=&#34;373&#34;
+               height=&#34;249&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Jeroen Blom made prototype thimbles resulting from exploring suitable materials. The front thimble showing a rigid base made from antler combined with a grey conductive fabric tip.&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;This interestingly developed into a research paper, and the prototype supported a dual dissemination (academic and general).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iPhone [x]S</title>
+      <link>https://gerardbriscoe.github.io/portfolio/iphonexs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/iphonexs/</guid>
+      <description>&lt;p&gt;An updated version of &amp;ldquo;Mercedes Benz&amp;rdquo; by singer Janis Joplin with the poets Michael McClure and Bob Neuwirth, which re-focuses the consumerism of the sardonic prayer on the technology industry:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oh Lord, won&amp;rsquo;t you buy me a iPhone [x]S?&lt;br&gt;
+My friends all have Androids, I must make amends.&lt;br&gt;
+Worked hard all my lifetime, no help from my friends,&lt;br&gt;
+So Lord, won&amp;rsquo;t you buy me an iPhone [x]S?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /portfolio/iphonexs/janis_hucce8f5950ecdf3ee4a3f9f205a0baf62_92134_b30e5153a5b5844563879e5a501eba53.webp 400w,
+               /portfolio/iphonexs/janis_hucce8f5950ecdf3ee4a3f9f205a0baf62_92134_2cfacf714ef46674b813dc0eced9cfa6.webp 760w,
+               /portfolio/iphonexs/janis_hucce8f5950ecdf3ee4a3f9f205a0baf62_92134_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/iphonexs/janis_hucce8f5950ecdf3ee4a3f9f205a0baf62_92134_b30e5153a5b5844563879e5a501eba53.webp&#34;
+               width=&#34;218&#34;
+               height=&#34;435&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Here ‘x’ is a variable able to iterate through new iPhone models as they arrive, currently equalling 6.&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;While the lyric, with the variable &amp;lsquo;x&amp;rsquo;, worked for the then current generation, and the previous two generations, it never worked again due the Apple&amp;rsquo;s change in the naming strategy of their phones.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Internet of The Highlands</title>
+      <link>https://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;LTE, 4G, &amp;amp; even 3G,&lt;br&gt;
+How I have missed thee,&lt;br&gt;
+GPRS, Edge, &amp;amp; no service,&lt;br&gt;
+How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;highland-mobile-internet-coveragefeaturedpng&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Highland Mobile Internet Coverage&#34; srcset=&#34;
+               /portfolio/mobileinterentofthehighlands/featured_hu6cc97849afe7f9badf1d8d224e4d8a3b_277116_aed3fcd21c14e6a12f0123b3de7631c5.webp 400w,
+               /portfolio/mobileinterentofthehighlands/featured_hu6cc97849afe7f9badf1d8d224e4d8a3b_277116_e77f638ef440bacfb9f54c971a2bc5af.webp 760w,
+               /portfolio/mobileinterentofthehighlands/featured_hu6cc97849afe7f9badf1d8d224e4d8a3b_277116_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/featured_hu6cc97849afe7f9badf1d8d224e4d8a3b_277116_aed3fcd21c14e6a12f0123b3de7631c5.webp&#34;
+               width=&#34;563&#34;
+               height=&#34;528&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/h1&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;While 5G was not available anywhere in the UK when I wrote this, and remains unavailable in the highlands (as shown below). In time when it becomes more widely used, I would likely feel the need to update the poem.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Highland Coverage Check&#34; srcset=&#34;
+               /portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_4a7ce411bf4d9769c1fcb2dedd836532.webp 400w,
+               /portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_b355a38349603513e67114ed24c0dae4.webp 760w,
+               /portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_4a7ce411bf4d9769c1fcb2dedd836532.webp&#34;
+               width=&#34;541&#34;
+               height=&#34;358&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precision Soldering</title>
+      <link>https://gerardbriscoe.github.io/portfolio/precisionsoldering/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/precisionsoldering/</guid>
+      <description>&lt;p&gt;A significant element of craftsmanship is being a toolsmith to develop tools, asserting individuality against prepackaged, predetermined limitations of provided tools. We created a precision soldering prototype for crafting digital artefacts.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Precision Soldering Iron&#34; srcset=&#34;
+               /portfolio/precisionsoldering/prototype_hu8a30f0b2771f9679cb31d454eecba4d8_36189_9ead8ce058f28fd56e66b3f7897f9113.webp 400w,
+               /portfolio/precisionsoldering/prototype_hu8a30f0b2771f9679cb31d454eecba4d8_36189_97a3e8dab8404570567ec8ba9d964ef4.webp 760w,
+               /portfolio/precisionsoldering/prototype_hu8a30f0b2771f9679cb31d454eecba4d8_36189_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/precisionsoldering/prototype_hu8a30f0b2771f9679cb31d454eecba4d8_36189_9ead8ce058f28fd56e66b3f7897f9113.webp&#34;
+               width=&#34;293&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Some consider that craftsmanship embodies the conflict between autonomy and authority. The need to be a free self-determined creator, and the equal need for that creativity to be measured against collectively-agreed upon standards of excellence. This connects craftsmanship to the tradition of upholding standards and taking time, as a source of respect and self-worth. Among those standards are the tools and practices used in crafting.&lt;/p&gt;
+&lt;p&gt;It has been considered that thinking through the tools we use encourages us to cultivate a form of material consciousness. So, we should consider that to use a machine is to judge its powers, fashion its uses, in light of our limits rather than its potential. We should feel the material specificity of the medium we handle, to appreciate the incompleteness, the possibility, of a design that is not provided by a machine as a fait accompli. Furthermore, assert our own individuality against the prepackaged, predetermined limitations of the tools we use. Therefore, a significant element of craftsmanship is being a toolsmith to adapt and develop one&amp;rsquo;s own tools.&lt;/p&gt;
+&lt;p&gt;We consider a case of precision soldering for crafting digitally enabled artefacts, which necessitated the creation of a prototype precision soldering iron. This was for use in modifying exciting electrical components, beyond a craftsperson&amp;rsquo;s skill of precision soldering. The prototype was made from combining a soldering iron with a modified drill stand, proving affective for its intended use.&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;This was an important project in demonstrating that my digital making skills include hardware, as well as software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Good vs Email</title>
+      <link>https://gerardbriscoe.github.io/portfolio/goodvsemail/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/goodvsemail/</guid>
+      <description>&lt;p&gt;The narrative of an eternal battle between good and evil can now appear indicative of the constant challenge to manage email in Digital Cultures. With the unread count being an eternal evil that can never be fully defeated. So, how might we represent an inbox spiralling out of control?&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Good vs Email&#34; srcset=&#34;
+               /portfolio/goodvsemail/design_hu910babfd0f1a068bef6b462cf65fdc0b_289114_8b72c433299e1bfb608c19678e45c5ea.webp 400w,
+               /portfolio/goodvsemail/design_hu910babfd0f1a068bef6b462cf65fdc0b_289114_544c53b2e5474275f133b3f96420e609.webp 760w,
+               /portfolio/goodvsemail/design_hu910babfd0f1a068bef6b462cf65fdc0b_289114_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/goodvsemail/design_hu910babfd0f1a068bef6b462cf65fdc0b_289114_8b72c433299e1bfb608c19678e45c5ea.webp&#34;
+               width=&#34;499&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
+&lt;p&gt;Given the generally ever-increasingly worsening state of the email, it seems gain greater and greater relevance conceptually.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
