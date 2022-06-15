@@ -46,7 +46,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;As simple counter to the second, using an appropriate image being shared on Twitter, for the end of the US presidential term. While it was done long before the attempted coup by insurrection, the fear of such an eventuality was the reason for its creation. Even before that event, the threat to liberal democracy was seemed considerable.&lt;/p&gt;
+&lt;p&gt;A simple counter, using an appropriate image being shared on Twitter at the time, for the end of the US presidential term. While it was done long before the attempted insurrection coup, the fear of such an eventuality was the reason for its creation. Even before that event, the threat to liberal democracy globally seemed considerable.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -76,7 +76,7 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This was a simple web site/app speaking to the moment at the time. In hindsight, the presumption that there would not be a coup, which would have invalidated the website seems naive.&lt;/p&gt;
+&lt;p&gt;This was a simple web site/app speaking to the moment at the time. In hindsight, the presumption there would not be a coup, which would have invalidated the website seems naive.&lt;/p&gt;
 </description>
     </item>
     
@@ -114,10 +114,10 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;There is a lack of graphs focusing on cities, especially in showing their current and trending situation. So, using &lt;a href=&#34;https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/research-projects/2018-projects/global-healthcare-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;past research&lt;/a&gt; on identifying key cities for creating global indices was used to include a selection of 7 cities per region based upon Loughborough University’s &lt;a href=&#34;https://www.lboro.ac.uk/gawc/world2018link.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Link Classification&lt;/a&gt; (connectivity), nation diversity, as well as city, national and regional contributions to Global Domestic Product (GDP).&lt;/p&gt;
-&lt;p&gt;Modified version of the graph created by &lt;a href=&#34;https://aatishb.com/covidtrends/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aatish Bhatia&lt;/a&gt; in collaboration with &lt;a href=&#34;https://www.youtube.com/user/minutephysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minute Physics&lt;/a&gt;. This graph was chosen as it effectively represents &lt;strong&gt;exponential growth&lt;/strong&gt; trends, which is perhaps the most &lt;a href=&#34;https://www.youtube.com/watch?v=Kas0tIxDvrg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenging aspect of pandemics&lt;/a&gt;. The short explainer video is a clip from the Minute Physics &lt;a href=&#34;https://www.youtube.com/watch?v=54XLXg4fYsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explainer video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There is a lack of graphs focusing on cities in the Covid pandemic, especially in showing their current and trending situation. So, &lt;a href=&#34;https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/research-projects/2018-projects/global-healthcare-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;past research&lt;/a&gt;, on identifying key cities for creating global indices, was used to include a selection of 7 cities per region based upon Loughborough University’s &lt;a href=&#34;https://www.lboro.ac.uk/gawc/world2018link.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Link Classification&lt;/a&gt; (connectivity), nation diversity, as well as city, national and regional contributions to Global Domestic Product (GDP).&lt;/p&gt;
+&lt;p&gt;Modified version of the graph created by &lt;a href=&#34;https://aatishb.com/covidtrends/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aatish Bhatia&lt;/a&gt; in collaboration with &lt;a href=&#34;https://www.youtube.com/user/minutephysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minute Physics&lt;/a&gt;. This graph was chosen as it effectively represents &lt;strong&gt;exponential growth&lt;/strong&gt; trends, which is perhaps the most &lt;a href=&#34;https://www.youtube.com/watch?v=Kas0tIxDvrg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenging aspect of pandemics&lt;/a&gt;. The short explainer video is a clip from Minute Physics &lt;a href=&#34;https://www.youtube.com/watch?v=54XLXg4fYsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explainer video&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Even now, with lockdown lifted, the geographical unit of most interest in the city. The &lt;a href=&#34;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weekly ONS data&lt;/a&gt; often provide regional estimates, including the city of London. In the process of developing the site I had to most notably develop my parallel processing skills to be able to process the multitude of data sources in a reasonable timeframe for daily updates.&lt;/p&gt;
+&lt;p&gt;Even now, with lockdown lifted, the geographical unit of most interest is the city. The &lt;a href=&#34;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weekly ONS data&lt;/a&gt; often provides regional estimates, including the city of London. In developing the site I had to significantly develop my parallel processing skills to be able to process the multitude of data sources in a reasonable timeframe for regular updates.&lt;/p&gt;
 </description>
     </item>
     
@@ -154,17 +154,17 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Lord of The Rings&#34; srcset=&#34;
-               /portfolio/lordofthekpis/lotr_hu83c028124226b858dbea9f1ea3838cbe_173850_03dc8dfa4b8d287858b93c55a130fab8.webp 400w,
+               /portfolio/lordofthekpis/lotr_hu83c028124226b858dbea9f1ea3838cbe_173850_816cd8e4de9fd86d0a8405a46e9b0cc3.webp 400w,
                /portfolio/lordofthekpis/lotr_hu83c028124226b858dbea9f1ea3838cbe_173850_14351dabecd988b33379bd955546aa5f.webp 760w,
                /portfolio/lordofthekpis/lotr_hu83c028124226b858dbea9f1ea3838cbe_173850_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/lordofthekpis/lotr_hu83c028124226b858dbea9f1ea3838cbe_173850_03dc8dfa4b8d287858b93c55a130fab8.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/lordofthekpis/lotr_hu83c028124226b858dbea9f1ea3838cbe_173850_816cd8e4de9fd86d0a8405a46e9b0cc3.webp&#34;
                width=&#34;543&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This has so far aged well, and will presumably be appropriate for some time. A major change in academia would be required to invalidate it, either in terms of terminology or abandonment on KPIs.&lt;/p&gt;
+&lt;p&gt;This has so far aged well, and will presumably be applicable for some time. A major change in academia would be required to invalidate it, either in terms of terminology or the abandonment of KPIs.&lt;/p&gt;
 </description>
     </item>
     
@@ -192,7 +192,7 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of Prototype&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Prototype&#34; srcset=&#34;
                /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_16cf0d2bdbee03cfddda917598bedcf7.webp 400w,
                /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_e324250afa3703a82a6e2a8745222d69.webp 760w,
                /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -202,8 +202,8 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;I was working in projects concerning ethical consumers, including the potential for blockchains to potentially demonstrate the provenance of products, including food items. I noted that perhaps more simply what was required was knowledge of brand of products, rather than the full history of a product&amp;rsquo;s origin, because after all one has to believe the information that would be placed on a blockchain. However, given current corporate culture it can be unclear who own&amp;rsquo;s a brand, and whether the owner&amp;rsquo;s values are consistent with a brand&amp;rsquo;s values.&lt;/p&gt;
-&lt;p&gt;I created a tool to determine the ownership of a brand or company. I wanted as self-sustaining solution as possible, so rather than build a complex server to handle queries, I looked for a primarily client-side solution. I realised I need a suitable data source, such as &lt;a href=&#34;https://www.wikipedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;, and a suitable way access interface (API) as client-side data scrapping of wikipedia would not be effective. I discovered &lt;a href=&#34;https://www.dbpedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBpedia&lt;/a&gt; which make Wikipedia information available in a database format, such that one can submit queries in &lt;a href=&#34;https://www.w3.org/TR/sparql11-query/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARQL&lt;/a&gt; query language. I wanted a &lt;a href=&#34;https://www.w3schools.com/html/html_responsive.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive web design&lt;/a&gt; that would provide a web app, as well as a website. I considered that the &lt;a href=&#34;http://getskeleton.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skeleton&lt;/a&gt; CSS library would be sufficient for my needs if building prototype interface.&lt;/p&gt;
+&lt;p&gt;I was working in projects concerning ethical consumers, including the potential for blockchains to potentially demonstrate the provenance of products. I noted that perhaps more simply what was required was knowledge of brand ownership, rather than the full history of a product&amp;rsquo;s origin, because one ultimately has to believe the information that would be placed on a blockchain. However, with current corporate culture it can be unclear who owns a given brand, and so whether the owner&amp;rsquo;s values are consistent with the brand&amp;rsquo;s values.&lt;/p&gt;
+&lt;p&gt;I created a tool to determine the ownership of a brand. I wanted as self-sustaining a solution as far as possible, so rather than build a complex server to handle queries, I looked for a primarily client-side solution. I realised I needed a suitable data source, such as &lt;a href=&#34;https://www.wikipedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;, and a suitable way to access information (API) as client-side data scraping would not be effective. I discovered &lt;a href=&#34;https://www.dbpedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBpedia&lt;/a&gt; which makes Wikipedia information available in a database format, such that queries can be submitted in the &lt;a href=&#34;https://www.w3.org/TR/sparql11-query/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARQL&lt;/a&gt; query language. I wanted a &lt;a href=&#34;https://www.w3schools.com/html/html_responsive.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive web design&lt;/a&gt; that would provide a web app, as well as a website. I considered that the &lt;a href=&#34;http://getskeleton.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skeleton&lt;/a&gt; CSS library would be sufficient for my needs of building a prototype interface.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -234,7 +234,7 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
 &lt;/p&gt;
 &lt;p&gt;I subsequently considered creating a more graphical interface, which could show the hierarchy of ownership. I first made use of &lt;a href=&#34;https://d3js.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D3&lt;/a&gt;, before concluding it would probably be better to make a native app.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Unlike most web apps and other websites, it has thus far not needed any maintenance or updating. This is primarily because it was built with minimalist user interface technologies, and the underlying technologies for functionality has been remained stable, both in terms of functionality and API.&lt;/p&gt;
+&lt;p&gt;Unlike most web apps and other websites, it has thus far not needed any maintenance or updating. This is primarily because it was built with minimalist user interface technologies, and the underlying technologies (APIs) for functionality have remained stable, providing then a significant degree of future proofing.&lt;/p&gt;
 </description>
     </item>
     
@@ -261,7 +261,7 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Phone&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Prototype&#34; srcset=&#34;
                /portfolio/90yearphone/phone_hu7122f4ba212a8d697a22e2e177f01b2f_3590356_fbf3408f3fbeba1d66ab8bd1f110d1ea.webp 400w,
                /portfolio/90yearphone/phone_hu7122f4ba212a8d697a22e2e177f01b2f_3590356_c75babf863b33c269399a477cefa0234.webp 760w,
                /portfolio/90yearphone/phone_hu7122f4ba212a8d697a22e2e177f01b2f_3590356_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -271,10 +271,9 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;90 Year Phone, which bridged a 1920s Bakelite phone and 2010s VoIP telephony. Specifically, a black GPO 162/232 Bakelite telephone, a iPod Touch (6th generation), and Bluetooth to landline adapter. Finished with custom traditional label, replacing the beginning of the dial code the location, in this case London for 020.&lt;/p&gt;
-&lt;p&gt;Asking Siri to place a VoIP call on an almost antique phone is quite a surreal experience. Specifically, picking up the Bakelite receiver and saying &amp;lsquo;Hey Siri&amp;rsquo; was most unusual.&lt;/p&gt;
+&lt;p&gt;90 Year Phone, which bridged a 1920s Bakelite phone and 2010s VoIP telephony. Specifically, a black GPO 162/232 Bakelite telephone, a iPod Touch (6th generation), and Bluetooth to landline adapter. Asking Siri to place a VoIP call on an almost antique phone is quite a surreal experience. Specifically, picking up the Bakelite receiver and saying &amp;lsquo;Hey Siri&amp;rsquo; was most unusual.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This was a second prototype at creating traditional interfaces to modern technology, making it more accessible when modern interfaces are not preferred. I considered an even older &amp;lsquo;candlestick&amp;rsquo; phone from the 1910s, but it was cost prohibitive, and I could not use replicas which invalidating the title.&lt;/p&gt;
+&lt;p&gt;This was a second prototype in creating traditional interfaces to modern technology, making it more accessible when modern interfaces are not preferred. I considered an even older &amp;lsquo;candlestick&amp;rsquo; phone from the 1910s, but it was cost prohibitive, and using replicas would have invalidated the concept.&lt;/p&gt;
 </description>
     </item>
     
@@ -305,17 +304,17 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Highlands Mobile Internet Coverage&#34; srcset=&#34;
-               /portfolio/mobilehighlands/featured_hudbfc77ba2de3547808878fad60c893fc_2504468_cc1c01f506132b0c6683c8049b935f8b.webp 400w,
+               /portfolio/mobilehighlands/featured_hudbfc77ba2de3547808878fad60c893fc_2504468_6f43b6a3f2f6943bd7cd26a5cff1cf7f.webp 400w,
                /portfolio/mobilehighlands/featured_hudbfc77ba2de3547808878fad60c893fc_2504468_397a4b96201014ea2375900a5e762b5b.webp 760w,
                /portfolio/mobilehighlands/featured_hudbfc77ba2de3547808878fad60c893fc_2504468_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/mobilehighlands/featured_hudbfc77ba2de3547808878fad60c893fc_2504468_cc1c01f506132b0c6683c8049b935f8b.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/mobilehighlands/featured_hudbfc77ba2de3547808878fad60c893fc_2504468_6f43b6a3f2f6943bd7cd26a5cff1cf7f.webp&#34;
                width=&#34;676&#34;
                height=&#34;564&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;My first Haiku modified from the &lt;a href=&#34;http://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original longer version&lt;/a&gt;. I felt the format would be best supported by an image, which I subsequently applied to original poem.&lt;/p&gt;
+&lt;p&gt;My first Haiku modified from the &lt;a href=&#34;http://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original longer version&lt;/a&gt;. I felt the format would be best supported by an explanatory image, which I subsequently also applied to the original poem.&lt;/p&gt;
 &lt;p&gt;While 5G was not available anywhere in the UK when I wrote this, and remains unavailable in the highlands. In time when it becomes more widely used, I would likely feel the need to update the Haiku.&lt;/p&gt;
 </description>
     </item>
@@ -344,16 +343,16 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_5d0f0cb15673efb0473955966b602494.webp 400w,
+               /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_887151671e097caf11ea7df6440a90c8.webp 400w,
                /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_8d4d535e071e43ead272587c17951639.webp 760w,
                /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_5d0f0cb15673efb0473955966b602494.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_887151671e097caf11ea7df6440a90c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;603&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;We are interested in the challenge that the ever-increasing use of capacity touchscreens represent. This is because they rely on the electrical properties of the human skin, which changes over time, often becoming less conductive with age. So, we consider the potentially increasing problem this would represent, with a layered model of skin interactions, as a frame from which to conceptualise different classes of approaches and better understand the design requirements. Conscious of the need to retain a sense of touch, rather than a stylus with a conductive tip or gloves with conductive finger tips, we then propose suitable thimbles for touchscreens. We conceptualised a touchscreen thimble to be worn on the body that would maintain a sense of touch. So a pros-palliare, rather than a prosthesis.&lt;/p&gt;
+&lt;p&gt;We are interested in the challenge that the ever-increasing use of capacitive touchscreens represent. This is because they rely on the electrical properties of the human skin, which changes over time, often becoming less conductive with age. So, we consider the potentially increasing problem this would represent, as a frame from which to better understand the design requirements for developing solutions. Conscious of the need to retain a sense of touch, rather than a stylus with a conductive tip or gloves with conductive finger tips, we then propose suitable thimbles for touchscreens. We conceptualised a touchscreen thimble to be worn on the body that would maintain a sense of touch. So a pros-palliare, rather than a prosthesis.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -382,7 +381,7 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;The design of the thimble consisting of two essential parts, a rigid cylindrical base, and a thin conductive fabric for the finger tip. Developing a proof of concept prototype, with Jeroen Blom, consisting of a rigid base combined with a conductive fabric for the finger tip, to address the limitations we observed with existing approaches.&lt;/p&gt;
+&lt;p&gt;The design of the touchscreen thimble consists of two essential parts, a rigid cylindrical base, and a thin conductive fabric for the finger tip. Developing a proof of concept prototype, with Jeroen Blom, addressing the limitations we observed with existing approaches.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -402,18 +401,18 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_f9024cbd78210943d5d758068b25e7d0.webp 400w,
+               /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_78b1edd9f170e8774b13be9f65618e5d.webp 400w,
                /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_5ddea60651a82dde523dcde4bb59e46c.webp 760w,
                /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_f9024cbd78210943d5d758068b25e7d0.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_78b1edd9f170e8774b13be9f65618e5d.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Jeroen Blom made prototype thimbles resulting from exploring suitable materials. The front thimble showing a rigid base made from antler combined with a grey conductive fabric tip.&lt;/p&gt;
+&lt;p&gt;The front thimble showing a rigid base made from antler combined with a grey conductive fabric tip.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This interestingly developed into a research paper, and the prototype supported a dual dissemination (academic and general).&lt;/p&gt;
+&lt;p&gt;This interestingly developed into a research paper, and the prototype supported dual dissemination (academic and general public).&lt;/p&gt;
 </description>
     </item>
     
@@ -450,7 +449,7 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;30 Year Phone, which bridged a 1970s (GPO) phone and 2000s (bluetooth) telephony. Specifically, a red GPO 746 Telephone, and a Bluetooth to landline adapter. A pulse to tone converter allows dialling from the phone to a mobile line. It also includes a ring capacitor which allows it to ring as expected. Finished with custom traditional label, replacing the beginning of the dial code the location, in this case London for 020.&lt;/p&gt;
+&lt;p&gt;30 Year Phone, which bridged a 1970s (GPO) phone and 2000s (bluetooth) telephony. Specifically, a red GPO 746 Telephone, and a Bluetooth to landline adapter. A pulse to tone converter allows dialling from the phone to a mobile line. It also includes a ring capacitor which allows it to ring as expected. Finished with a custom traditional label, replacing the beginning of the dial code with the location, in this case London for 020.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
 &lt;p&gt;This was a first prototype at creating traditional interfaces to modern technology, making it more accessible when modern interfaces are not preferred.&lt;/p&gt;
 </description>
@@ -461,11 +460,31 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
       <link>https://gerardbriscoe.github.io/portfolio/iphonexs/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://gerardbriscoe.github.io/portfolio/iphonexs/</guid>
-      <description>&lt;p&gt;An updated version of &amp;ldquo;Mercedes Benz&amp;rdquo; by singer Janis Joplin with the poets Michael McClure and Bob Neuwirth, which re-focuses the consumerism of the sardonic prayer on the technology industry:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oh Lord, won&amp;rsquo;t you buy me a iPhone [x]S?&lt;br&gt;
+      <description>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;https://gerardbriscoe.github.io/portfolio/iphonexs/clip.flac&#34; type=&#34;audio/flac&#34;&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;An modified version of &amp;ldquo;Mercedes Benz&amp;rdquo; by singer Janis Joplin with the poets Michael McClure and Bob Neuwirth, which re-focuses the consumerism of the sardonic prayer on the technology industry:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Oh Lord, won&amp;rsquo;t you buy me an iPhone [x]S?&lt;br&gt;
 My friends all have Androids, I must make amends.&lt;br&gt;
 Worked hard all my lifetime, no help from my friends,&lt;br&gt;
 So Lord, won&amp;rsquo;t you buy me an iPhone [x]S?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here, ‘x’ is a variable able to iterate through new iPhone models as they arrive, currently equalling 6.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -484,19 +503,18 @@ So Lord, won&amp;rsquo;t you buy me an iPhone [x]S?&lt;/strong&gt;&lt;/em&gt;&lt
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /portfolio/iphonexs/janis_hu54d1945c2dfe7a272037d5914fec98ae_276312_625cc577aa19b642d7904f351e248f9f.webp 400w,
-               /portfolio/iphonexs/janis_hu54d1945c2dfe7a272037d5914fec98ae_276312_1613ec23ee3cf91292a2cfbfe700601b.webp 760w,
-               /portfolio/iphonexs/janis_hu54d1945c2dfe7a272037d5914fec98ae_276312_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/iphonexs/janis_hu54d1945c2dfe7a272037d5914fec98ae_276312_625cc577aa19b642d7904f351e248f9f.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Janis Joplin iPhone Cover&#34; srcset=&#34;
+               /portfolio/iphonexs/janis_hu0a5631a7b89c075138e7ee69bcd8829b_92228_3e09e27f6bfabe51498051b6f2b77b85.webp 400w,
+               /portfolio/iphonexs/janis_hu0a5631a7b89c075138e7ee69bcd8829b_92228_1f719f8599ca123e9b3e5ebaba659936.webp 760w,
+               /portfolio/iphonexs/janis_hu0a5631a7b89c075138e7ee69bcd8829b_92228_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/iphonexs/janis_hu0a5631a7b89c075138e7ee69bcd8829b_92228_3e09e27f6bfabe51498051b6f2b77b85.webp&#34;
                width=&#34;218&#34;
                height=&#34;435&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Here, ‘x’ is a variable able to iterate through new iPhone models as they arrive, currently equalling 6.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;While the lyric, with the variable &amp;lsquo;x&amp;rsquo;, worked for the then current generation, and the previous two generations, it never worked again due the Apple&amp;rsquo;s change in the naming strategy of their phones.&lt;/p&gt;
+&lt;p&gt;While the lyric, with the variable &amp;lsquo;x&amp;rsquo;, worked for the then current generation, and the previous two generations, it never worked again due the Apple&amp;rsquo;s change in the naming strategy of their iPhones.&lt;/p&gt;
 </description>
     </item>
     
@@ -509,7 +527,7 @@ So Lord, won&amp;rsquo;t you buy me an iPhone [x]S?&lt;/strong&gt;&lt;/em&gt;&lt
 How I have missed thee,&lt;br&gt;
 GPRS, Edge, &amp;amp; no service,&lt;br&gt;
 How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h1 id=&#34;highland-mobile-internet-coveragefeaturedpng&#34;&gt;
+&lt;p&gt;
 
 
 
@@ -536,9 +554,9 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/h1&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;While 5G was not available anywhere in the UK when I wrote this, and remains unavailable in the highlands (as shown below). In time when it becomes more widely used, I would likely feel the need to update the poem.&lt;/p&gt;
+&lt;p&gt;While 5G was not available anywhere in the UK when I wrote this, and remains unavailable in the highlands (as shown in the coverage summary below). In time when it becomes more widely used, I would likely feel the need to update the poem.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -575,7 +593,7 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
       <link>https://gerardbriscoe.github.io/portfolio/sociallysustainableemail/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://gerardbriscoe.github.io/portfolio/sociallysustainableemail/</guid>
-      <description>&lt;p&gt;E-mail has become ubiquitous in modern life, as access has become available via smartphones and tablets, in addition to desktop and laptop computers. However, this ubiquity has created the phenomenon of being unable to ’unplug’ from work when work email is constantly accessible on these devices. Some organisations have even instituted policies within their organisations to now keep their e-mail within working hours, e.g. Siemens and Volkswagen. We have created and e-mail relay that achieves the same effect for an individual, as it interfaces between a user’s devices and their email accounts. It operates in two parts as shown in Figure below. First, by buffering outgoing (SMTP) mail from the user if it is not sent during pre-defined working hours, until it is once again working hours. Second, by hiding incoming email that arrives outside of working hours, which is done my intercepting and modifying messages as necessary when relaying the IMAP protocol between the user’s email accounts and their devices.&lt;/p&gt;
+      <description>&lt;p&gt;E-mail has become ubiquitous in modern life, as access has become available via smartphones and tablets, in addition to desktop and laptop computers. However, this ubiquity has created the phenomenon of being unable to &amp;lsquo;unplug&amp;rsquo; from work when email is constantly accessible on these devices. Some organisations have even instituted policies to keep their e-mail within working hours, e.g. Siemens and Volkswagen. We have created and e-mail relay that achieves the same effect for an individual, as it interfaces between a user’s devices and their email accounts. It operates in two parts as shown in the Figure below. First, by buffering outgoing (SMTP) mail from the user if it is not sent during pre-defined working hours, until it is once again working hours. Second, by hiding incoming email that arrives outside of working hours, which is done my intercepting and modifying messages as necessary when relaying the IMAP protocol between the user’s email accounts and their devices.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -605,7 +623,7 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;The prototype was created before any corporations (e.g. Siemens) issued out-of-hours email bans. Also, before email providers such as Google offered at least the outgoing functionality.&lt;/p&gt;
+&lt;p&gt;The prototype was created before any corporations (e.g. Siemens) issued out-of-hours email bans. Also, before email providers such as Google offered at least the outgoing functionality. I initially struggled with overcoming the IMAP protocol ‘immutability’ problem, which intends to ensure that the date and time that email is sent is immutable. I subsequently developed a dual-buffer approach to overcome this problem, and in doing so effectively created a way to change the date and time of sent and received email.&lt;/p&gt;
 </description>
     </item>
     
@@ -642,7 +660,7 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Social sustainability is often found to be abstract and intangible, ever more so in the digital age. Smartphones, which has come to epitomise the digital age, inherently lack social sustainability. Both in terms of the manufacturing of the hardware, and the operation of the software. However, recent developments has made a Socially-Sustainable Smartphone possible. The Fairphone has socially-sustainable hardware, but not software (operating system). The recently released Ubuntu Touch phone has socially-sustainable software, but not hardware. So, combining the two allows us to envisage a SocialLy-Sustainable Smartphone, as a demonstrator for that which is otherwise intangible. But, the question remains can one use it to make a socially-sustainable phone call?&lt;/p&gt;
+&lt;p&gt;Social sustainability is often found to be abstract and intangible, ever more so in the digital age. Smartphones, which have come to epitomise the digital age, inherently lack social sustainability. Both in terms of the manufacturing of the hardware, and the operation of the software. However, recent developments has made a Socially-Sustainable Smartphone possible. The Fairphone has socially-sustainable hardware, but not software (operating system). The recently released Ubuntu Touch phone has socially-sustainable software, but not hardware. So, combining the two allows us to envisage a Socially-Sustainable Smartphone, as a demonstrator for that which is otherwise intangible. But, the question remains can one use it to make a socially-sustainable phone call?&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -665,7 +683,7 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;The envisagement proved an effective provocation of what social-sustainability means in more tangible terms. It also supported dual dissemination in research conferences and an exhibition during Milan design week.&lt;/p&gt;
+&lt;p&gt;The envisagement proved an effective provocation of what social-sustainability means in more tangible terms. It also supported dual dissemination for research conferences and exhibitions, one during Milan design week.&lt;/p&gt;
 </description>
     </item>
     
@@ -694,18 +712,18 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Precision Soldering Iron&#34; srcset=&#34;
-               /portfolio/precisionsoldering/prototype_hu4a3491dc297506af229b9f96b22b314a_82455_28db23e1b80d21ff211b2cb510bf3b42.webp 400w,
+               /portfolio/precisionsoldering/prototype_hu4a3491dc297506af229b9f96b22b314a_82455_d82ba664b5b933a4e03297c264b824c4.webp 400w,
                /portfolio/precisionsoldering/prototype_hu4a3491dc297506af229b9f96b22b314a_82455_ee8e95fab63dac3adcb1dcb55b75eb8a.webp 760w,
                /portfolio/precisionsoldering/prototype_hu4a3491dc297506af229b9f96b22b314a_82455_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/precisionsoldering/prototype_hu4a3491dc297506af229b9f96b22b314a_82455_28db23e1b80d21ff211b2cb510bf3b42.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/precisionsoldering/prototype_hu4a3491dc297506af229b9f96b22b314a_82455_d82ba664b5b933a4e03297c264b824c4.webp&#34;
                width=&#34;571&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Some consider that craftsmanship embodies the conflict between autonomy and authority. The need to be a free self-determined creator, and the equal need for that creativity to be measured against collectively-agreed upon standards of excellence. This connects craftsmanship to the tradition of upholding standards and taking time, as a source of respect and self-worth. Among those standards are the tools and practices used in crafting.&lt;/p&gt;
-&lt;p&gt;It has been considered that thinking through the tools we use encourages us to cultivate a form of material consciousness. So, we should consider that to use a machine is to judge its powers, fashion its uses, in light of our limits rather than its potential. We should feel the material specificity of the medium we handle, to appreciate the incompleteness, the possibility, of a design that is not provided by a machine as a fait accompli. Furthermore, assert our own individuality against the prepackaged, predetermined limitations of the tools we use. Therefore, a significant element of craftsmanship is being a toolsmith to adapt and develop one&amp;rsquo;s own tools.&lt;/p&gt;
-&lt;p&gt;We consider a case of precision soldering for crafting digitally enabled artefacts, which necessitated the creation of a prototype precision soldering iron. This was for use in modifying exciting electrical components, beyond a craftsperson&amp;rsquo;s skill of precision soldering. The prototype was made from combining a soldering iron with a modified drill stand, proving affective for its intended use.&lt;/p&gt;
+&lt;p&gt;It has been considered that thinking through the tools we use encourages us to cultivate a form of material consciousness. So, we should consider that to use a machine is to judge its powers, fashion its uses, in light of our limits rather than its potential. We should feel the material specificity of the medium we handle, to appreciate the incompleteness, the possibility, of a design that is not provided by a machine as a fait accompli. Furthermore, asserting our own individuality against the prepackaged, predetermined limitations of the tools we use. Therefore, a significant element of craftsmanship is being a toolsmith to adapt and develop one&amp;rsquo;s own tools.&lt;/p&gt;
+&lt;p&gt;We considered precision soldering for crafting digitally enabled artefacts, which necessitated the creation of a prototype precision soldering iron. This was for use in modifying electrical components, beyond a craftsperson&amp;rsquo;s skill of precision soldering. The prototype was made from combining a soldering iron with a modified drill stand, proving affective for its intended use.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
 &lt;p&gt;This was an important project in demonstrating that my digital making skills include hardware, as well as software.&lt;/p&gt;
 </description>
@@ -735,8 +753,7 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
       <link>https://gerardbriscoe.github.io/portfolio/goodvsemail/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://gerardbriscoe.github.io/portfolio/goodvsemail/</guid>
-      <description>&lt;p&gt;The narrative of an eternal battle between good and evil can now appear indicative of the constant challenge to manage email in Digital Cultures. With the unread count being an eternal evil that can never be fully defeated. So, how might we represent an inbox spiralling out of control?&lt;/p&gt;
-&lt;p&gt;
+      <description>&lt;p&gt;
 
 
 
@@ -755,17 +772,18 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Good vs Email&#34; srcset=&#34;
-               /portfolio/goodvsemail/design_hu717da65929fb61fe0bbbbd62ad947d9a_3889416_2b12ebea60c03dc8a00338e31ea35fe2.webp 400w,
+               /portfolio/goodvsemail/design_hu717da65929fb61fe0bbbbd62ad947d9a_3889416_49b26414085587dc9892036e1533c2e0.webp 400w,
                /portfolio/goodvsemail/design_hu717da65929fb61fe0bbbbd62ad947d9a_3889416_8484b802a44f5adbaf16586a052defc2.webp 760w,
                /portfolio/goodvsemail/design_hu717da65929fb61fe0bbbbd62ad947d9a_3889416_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/goodvsemail/design_hu717da65929fb61fe0bbbbd62ad947d9a_3889416_2b12ebea60c03dc8a00338e31ea35fe2.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/goodvsemail/design_hu717da65929fb61fe0bbbbd62ad947d9a_3889416_49b26414085587dc9892036e1533c2e0.webp&#34;
                width=&#34;760&#34;
                height=&#34;524&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p&gt;The narrative of an eternal battle between good and evil can now appear indicative of the constant challenge of managing email in Digital Cultures. With the unread count being an eternal evil that can never be fully defeated. So, how might we represent an inbox spiralling out of control?&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Given the generally ever-increasingly worsening state of the email, it seems gain greater and greater relevance conceptually.&lt;/p&gt;
+&lt;p&gt;Given the generally ever-increasingly worsening state of email, this seems to gain ever greater relevance conceptually.&lt;/p&gt;
 </description>
     </item>
     
@@ -802,17 +820,17 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;We consider how artwork can be digitally context aware, considering context awareness from both phenomenological and computational epistemologies. We first discuss a theoretical basis, considering from a phenomenological perspective the theory of experience. Including how perception can be seen in a manifold perspective, in which consciousness and intentionality is the source of artefacts and experience. Furthermore, from a computational perspective we consider moving beyond traditional representational perspectives of perception. So, considering subjective experiences, rather than copying a characteristics of experience. Adopting consciousness in its intentionality, the direction of consciousness to something, as a counterpoint to representational formulations of perception. We then consider a framework for creating context aware art, in which interactions through an interface are to experience, perceive and inhabit virtual environments. So, serving as a gateway to the mental processing involved in the interpretation of informational contents. Therefore, the interface as a medium of interaction must be based upon how spatial configurations can be constantly reformed. Thereby forming a congruence of the interaction between the individual and the virtual environment, based on the exchange of stimuli between users and cognition, via the interface. This allows for better acquisition of context, the abstraction and understanding of context, and behaviour based on context recognition. We next explore this framework, considering an example in which the context of social media is linked to a dynamic interpretation of Mondrian’s Composition II. In social media, context awareness is a construction of societies based on reality, and should therefore be aware of the history and context surrounding social interactions. We link areas of activity to colour, and relative intensity of activity to form. So, creating a live piece of artwork, potentially enriching to the soul, as well as informative of online social experience.&lt;/p&gt;
-&lt;p&gt;Considering an example in which the context of social media is linked to a dynamic interpretation of Mondrian’s Composition II.&lt;/p&gt;
+&lt;p&gt;We consider how artwork can be digitally context aware, considering context awareness from both phenomenological and computational epistemologies. Considering from a phenomenological perspective the theory of experience. Including how perception can be seen in a manifold perspective, in which consciousness and intentionality is the source of artefacts and experience. Furthermore, from a computational perspective we consider moving beyond traditional representational perspectives of perception. So, considering subjective experiences, rather than copying characteristics of experience. Adopting consciousness in its intentionality, the direction of consciousness to something, as a counterpoint to representational formulations of perception. We then consider creating context aware art, in which interactions through an interface are to experience, perceive and inhabit virtual environments. So, serving as a gateway to the mental processing involved in the interpretation of informational contents. Therefore, the interface as a medium of interaction must be based upon constantly reforming spatial configurations. Thereby forming a congruence of the interaction between the individual and the virtual environment, based on the exchange of stimuli between users and cognition, via the interface. This allows for better acquisition of context, the abstraction and understanding of context, and behaviour based on context recognition.&lt;/p&gt;
+&lt;p&gt;Considering an example in which contexts of social media are linked to a dynamic interpretation of Mondrian’s Composition II.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Mondrian believed that colours should be kept separate and pure. He uses only black and white and the primary colours of red, yellow and blue.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;According to Mondrian colour has vibrations in the same way as music which gives them a sense of movement when you look at them. Or if you like different colours have different personalities.&lt;/p&gt;
+&lt;p&gt;According to Mondrian colour has vibrations in the same way as music, which gives them a sense of movement when you look at them. So, different colours have different personalities.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In social media, context awareness is a construction of societies based on reality, and should therefore be aware of the history and context surrounding social interactions. We therefore link areas of activity to colour, and relative intensity of activity to form. So, creating a live piece of artwork, potentially enriching to the soul, as well as informative of online social experience. So, we could imagine the following video showing social media interactions over a day accelerated (modified from &lt;a href=&#34;https://www.youtube.com/watch?v=DLxEk_Y1YeI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bauhaus Movement&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;In social media, context awareness is a construction of societies based on reality, and should therefore be aware of the history and context surrounding social interactions. We therefore link areas of activity to colour, and relative intensity of activity to form. So, creating a live piece of artwork, potentially enriching to the soul, as well as informative of online social experiences. We could therefore imagine the following video showing social media interactions accelerated over a day (modified from &lt;a href=&#34;https://www.youtube.com/watch?v=DLxEk_Y1YeI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bauhaus Movement&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -836,7 +854,7 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;font-colord7bb02familyfont-font-color2f6595workfont-font-color9b1001friendsfont&#34;&gt;&lt;strong&gt;&lt;font color=&#34;#D7BB02&#34;&gt;Family&lt;/font&gt; &lt;font color=&#34;#2F6595&#34;&gt;Work&lt;/font&gt; &lt;font color=&#34;#9B1001&#34;&gt;Friends&lt;/font&gt;&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;I regret having not pursued this further, but then I had colleagues at the time with shares interests and relevant experience. We progressed to making a conference submission, but we ultimately did not have funding to attend. Since then, while I have experimented with some code to make a working prototype, I have struggled to find a suitable javascript graphics library which would support the required motion/animation.&lt;/p&gt;
+&lt;p&gt;I regret having not pursued this further, but then I had colleagues at the time with shared interests and relevant experience. We even progressed to making a conference submission, but ultimately did not have funding to attend. Since then, while I have experimented with some code to make a working prototype, I have struggled to find suitable javascript graphics libraries which would support the required motion/animation.&lt;/p&gt;
 </description>
     </item>
     

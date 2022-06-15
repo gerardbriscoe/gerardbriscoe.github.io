@@ -46,10 +46,10 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;There is a lack of graphs focusing on cities, especially in showing their current and trending situation. So, using &lt;a href=&#34;https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/research-projects/2018-projects/global-healthcare-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;past research&lt;/a&gt; on identifying key cities for creating global indices was used to include a selection of 7 cities per region based upon Loughborough University’s &lt;a href=&#34;https://www.lboro.ac.uk/gawc/world2018link.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Link Classification&lt;/a&gt; (connectivity), nation diversity, as well as city, national and regional contributions to Global Domestic Product (GDP).&lt;/p&gt;
-&lt;p&gt;Modified version of the graph created by &lt;a href=&#34;https://aatishb.com/covidtrends/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aatish Bhatia&lt;/a&gt; in collaboration with &lt;a href=&#34;https://www.youtube.com/user/minutephysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minute Physics&lt;/a&gt;. This graph was chosen as it effectively represents &lt;strong&gt;exponential growth&lt;/strong&gt; trends, which is perhaps the most &lt;a href=&#34;https://www.youtube.com/watch?v=Kas0tIxDvrg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenging aspect of pandemics&lt;/a&gt;. The short explainer video is a clip from the Minute Physics &lt;a href=&#34;https://www.youtube.com/watch?v=54XLXg4fYsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explainer video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There is a lack of graphs focusing on cities in the Covid pandemic, especially in showing their current and trending situation. So, &lt;a href=&#34;https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/research-projects/2018-projects/global-healthcare-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;past research&lt;/a&gt;, on identifying key cities for creating global indices, was used to include a selection of 7 cities per region based upon Loughborough University’s &lt;a href=&#34;https://www.lboro.ac.uk/gawc/world2018link.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Link Classification&lt;/a&gt; (connectivity), nation diversity, as well as city, national and regional contributions to Global Domestic Product (GDP).&lt;/p&gt;
+&lt;p&gt;Modified version of the graph created by &lt;a href=&#34;https://aatishb.com/covidtrends/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aatish Bhatia&lt;/a&gt; in collaboration with &lt;a href=&#34;https://www.youtube.com/user/minutephysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minute Physics&lt;/a&gt;. This graph was chosen as it effectively represents &lt;strong&gt;exponential growth&lt;/strong&gt; trends, which is perhaps the most &lt;a href=&#34;https://www.youtube.com/watch?v=Kas0tIxDvrg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenging aspect of pandemics&lt;/a&gt;. The short explainer video is a clip from Minute Physics &lt;a href=&#34;https://www.youtube.com/watch?v=54XLXg4fYsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explainer video&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Even now, with lockdown lifted, the geographical unit of most interest in the city. The &lt;a href=&#34;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weekly ONS data&lt;/a&gt; often provide regional estimates, including the city of London. In the process of developing the site I had to most notably develop my parallel processing skills to be able to process the multitude of data sources in a reasonable timeframe for daily updates.&lt;/p&gt;
+&lt;p&gt;Even now, with lockdown lifted, the geographical unit of most interest is the city. The &lt;a href=&#34;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weekly ONS data&lt;/a&gt; often provides regional estimates, including the city of London. In developing the site I had to significantly develop my parallel processing skills to be able to process the multitude of data sources in a reasonable timeframe for regular updates.&lt;/p&gt;
 </description>
     </item>
     
@@ -77,7 +77,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of Prototype&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Prototype&#34; srcset=&#34;
                /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_16cf0d2bdbee03cfddda917598bedcf7.webp 400w,
                /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_e324250afa3703a82a6e2a8745222d69.webp 760w,
                /portfolio/wth/sample_huc6c757ce29f9323e548d698b1c0ec1d5_33790_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -87,8 +87,8 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;I was working in projects concerning ethical consumers, including the potential for blockchains to potentially demonstrate the provenance of products, including food items. I noted that perhaps more simply what was required was knowledge of brand of products, rather than the full history of a product&amp;rsquo;s origin, because after all one has to believe the information that would be placed on a blockchain. However, given current corporate culture it can be unclear who own&amp;rsquo;s a brand, and whether the owner&amp;rsquo;s values are consistent with a brand&amp;rsquo;s values.&lt;/p&gt;
-&lt;p&gt;I created a tool to determine the ownership of a brand or company. I wanted as self-sustaining solution as possible, so rather than build a complex server to handle queries, I looked for a primarily client-side solution. I realised I need a suitable data source, such as &lt;a href=&#34;https://www.wikipedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;, and a suitable way access interface (API) as client-side data scrapping of wikipedia would not be effective. I discovered &lt;a href=&#34;https://www.dbpedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBpedia&lt;/a&gt; which make Wikipedia information available in a database format, such that one can submit queries in &lt;a href=&#34;https://www.w3.org/TR/sparql11-query/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARQL&lt;/a&gt; query language. I wanted a &lt;a href=&#34;https://www.w3schools.com/html/html_responsive.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive web design&lt;/a&gt; that would provide a web app, as well as a website. I considered that the &lt;a href=&#34;http://getskeleton.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skeleton&lt;/a&gt; CSS library would be sufficient for my needs if building prototype interface.&lt;/p&gt;
+&lt;p&gt;I was working in projects concerning ethical consumers, including the potential for blockchains to potentially demonstrate the provenance of products. I noted that perhaps more simply what was required was knowledge of brand ownership, rather than the full history of a product&amp;rsquo;s origin, because one ultimately has to believe the information that would be placed on a blockchain. However, with current corporate culture it can be unclear who owns a given brand, and so whether the owner&amp;rsquo;s values are consistent with the brand&amp;rsquo;s values.&lt;/p&gt;
+&lt;p&gt;I created a tool to determine the ownership of a brand. I wanted as self-sustaining a solution as far as possible, so rather than build a complex server to handle queries, I looked for a primarily client-side solution. I realised I needed a suitable data source, such as &lt;a href=&#34;https://www.wikipedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;, and a suitable way to access information (API) as client-side data scraping would not be effective. I discovered &lt;a href=&#34;https://www.dbpedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBpedia&lt;/a&gt; which makes Wikipedia information available in a database format, such that queries can be submitted in the &lt;a href=&#34;https://www.w3.org/TR/sparql11-query/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARQL&lt;/a&gt; query language. I wanted a &lt;a href=&#34;https://www.w3schools.com/html/html_responsive.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive web design&lt;/a&gt; that would provide a web app, as well as a website. I considered that the &lt;a href=&#34;http://getskeleton.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skeleton&lt;/a&gt; CSS library would be sufficient for my needs of building a prototype interface.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -119,7 +119,7 @@
 &lt;/p&gt;
 &lt;p&gt;I subsequently considered creating a more graphical interface, which could show the hierarchy of ownership. I first made use of &lt;a href=&#34;https://d3js.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D3&lt;/a&gt;, before concluding it would probably be better to make a native app.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Unlike most web apps and other websites, it has thus far not needed any maintenance or updating. This is primarily because it was built with minimalist user interface technologies, and the underlying technologies for functionality has been remained stable, both in terms of functionality and API.&lt;/p&gt;
+&lt;p&gt;Unlike most web apps and other websites, it has thus far not needed any maintenance or updating. This is primarily because it was built with minimalist user interface technologies, and the underlying technologies (APIs) for functionality have remained stable, providing then a significant degree of future proofing.&lt;/p&gt;
 </description>
     </item>
     
@@ -147,16 +147,16 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_5d0f0cb15673efb0473955966b602494.webp 400w,
+               /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_887151671e097caf11ea7df6440a90c8.webp 400w,
                /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_8d4d535e071e43ead272587c17951639.webp 760w,
                /portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_5d0f0cb15673efb0473955966b602494.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/sketch_hu70facba2c1e0cf04bec9bf88d07d64f2_184499_887151671e097caf11ea7df6440a90c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;603&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;We are interested in the challenge that the ever-increasing use of capacity touchscreens represent. This is because they rely on the electrical properties of the human skin, which changes over time, often becoming less conductive with age. So, we consider the potentially increasing problem this would represent, with a layered model of skin interactions, as a frame from which to conceptualise different classes of approaches and better understand the design requirements. Conscious of the need to retain a sense of touch, rather than a stylus with a conductive tip or gloves with conductive finger tips, we then propose suitable thimbles for touchscreens. We conceptualised a touchscreen thimble to be worn on the body that would maintain a sense of touch. So a pros-palliare, rather than a prosthesis.&lt;/p&gt;
+&lt;p&gt;We are interested in the challenge that the ever-increasing use of capacitive touchscreens represent. This is because they rely on the electrical properties of the human skin, which changes over time, often becoming less conductive with age. So, we consider the potentially increasing problem this would represent, as a frame from which to better understand the design requirements for developing solutions. Conscious of the need to retain a sense of touch, rather than a stylus with a conductive tip or gloves with conductive finger tips, we then propose suitable thimbles for touchscreens. We conceptualised a touchscreen thimble to be worn on the body that would maintain a sense of touch. So a pros-palliare, rather than a prosthesis.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -185,7 +185,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;The design of the thimble consisting of two essential parts, a rigid cylindrical base, and a thin conductive fabric for the finger tip. Developing a proof of concept prototype, with Jeroen Blom, consisting of a rigid base combined with a conductive fabric for the finger tip, to address the limitations we observed with existing approaches.&lt;/p&gt;
+&lt;p&gt;The design of the touchscreen thimble consists of two essential parts, a rigid cylindrical base, and a thin conductive fabric for the finger tip. Developing a proof of concept prototype, with Jeroen Blom, addressing the limitations we observed with existing approaches.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -205,18 +205,18 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_f9024cbd78210943d5d758068b25e7d0.webp 400w,
+               /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_78b1edd9f170e8774b13be9f65618e5d.webp 400w,
                /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_5ddea60651a82dde523dcde4bb59e46c.webp 760w,
                /portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_f9024cbd78210943d5d758068b25e7d0.webp&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/prototype_hu8a13418ac36946d884b2125a85f6f02f_323767_78b1edd9f170e8774b13be9f65618e5d.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Jeroen Blom made prototype thimbles resulting from exploring suitable materials. The front thimble showing a rigid base made from antler combined with a grey conductive fabric tip.&lt;/p&gt;
+&lt;p&gt;The front thimble showing a rigid base made from antler combined with a grey conductive fabric tip.&lt;/p&gt;
 &lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This interestingly developed into a research paper, and the prototype supported a dual dissemination (academic and general).&lt;/p&gt;
+&lt;p&gt;This interestingly developed into a research paper, and the prototype supported dual dissemination (academic and general public).&lt;/p&gt;
 </description>
     </item>
     

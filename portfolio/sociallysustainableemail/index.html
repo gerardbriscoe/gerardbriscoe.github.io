@@ -60,7 +60,7 @@
   
     
   
-  <meta name="description" content="Prototype of email relay that keeps ingoing and outgoing during working hours." />
+  <meta name="description" content="Prototype of relay that keeps email during working hours." />
 
   
   <link rel="alternate" hreflang="en-gb" href="https://gerardbriscoe.github.io/portfolio/sociallysustainableemail/" />
@@ -302,7 +302,7 @@
   <meta property="og:site_name" content="Gerard Briscoe" />
   <meta property="og:url" content="https://gerardbriscoe.github.io/portfolio/sociallysustainableemail/" />
   <meta property="og:title" content="Socially-Sustainable Email | Gerard Briscoe" />
-  <meta property="og:description" content="Prototype of email relay that keeps ingoing and outgoing during working hours." /><meta property="og:image" content="https://gerardbriscoe.github.io/portfolio/sociallysustainableemail/featured.png" />
+  <meta property="og:description" content="Prototype of relay that keeps email during working hours." /><meta property="og:image" content="https://gerardbriscoe.github.io/portfolio/sociallysustainableemail/featured.png" />
     <meta property="twitter:image" content="https://gerardbriscoe.github.io/portfolio/sociallysustainableemail/featured.png" /><meta property="og:locale" content="en-gb" />
   
     
@@ -708,7 +708,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>E-mail has become ubiquitous in modern life, as access has become available via smartphones and tablets, in addition to desktop and laptop computers. However, this ubiquity has created the phenomenon of being unable to ’unplug’ from work when work email is constantly accessible on these devices. Some organisations have even instituted policies within their organisations to now keep their e-mail within working hours, e.g. Siemens and Volkswagen. We have created and e-mail relay that achieves the same effect for an individual, as it interfaces between a user’s devices and their email accounts. It operates in two parts as shown in Figure below. First, by buffering outgoing (SMTP) mail from the user if it is not sent during pre-defined working hours, until it is once again working hours. Second, by hiding incoming email that arrives outside of working hours, which is done my intercepting and modifying messages as necessary when relaying the IMAP protocol between the user’s email accounts and their devices.</p>
+      <p>E-mail has become ubiquitous in modern life, as access has become available via smartphones and tablets, in addition to desktop and laptop computers. However, this ubiquity has created the phenomenon of being unable to &lsquo;unplug&rsquo; from work when email is constantly accessible on these devices. Some organisations have even instituted policies to keep their e-mail within working hours, e.g. Siemens and Volkswagen. We have created and e-mail relay that achieves the same effect for an individual, as it interfaces between a user’s devices and their email accounts. It operates in two parts as shown in the Figure below. First, by buffering outgoing (SMTP) mail from the user if it is not sent during pre-defined working hours, until it is once again working hours. Second, by hiding incoming email that arrives outside of working hours, which is done my intercepting and modifying messages as necessary when relaying the IMAP protocol between the user’s email accounts and their devices.</p>
 <p>
 
 
@@ -738,7 +738,7 @@
   </div></figure>
 </p>
 <h3 id="critical-reflection">Critical Reflection</h3>
-<p>The prototype was created before any corporations (e.g. Siemens) issued out-of-hours email bans. Also, before email providers such as Google offered at least the outgoing functionality.</p>
+<p>The prototype was created before any corporations (e.g. Siemens) issued out-of-hours email bans. Also, before email providers such as Google offered at least the outgoing functionality. I initially struggled with overcoming the IMAP protocol ‘immutability’ problem, which intends to ensure that the date and time that email is sent is immutable. I subsequently developed a dual-buffer approach to overcome this problem, and in doing so effectively created a way to change the date and time of sent and received email.</p>
 
     </div>
 
