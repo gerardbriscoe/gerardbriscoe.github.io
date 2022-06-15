@@ -147,12 +147,12 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_70d91b6ea9c169490e7ca3bbbfda9b26.webp 400w,
-               /portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_55e57570424c838d77c5f03fb1ca7ce6.webp 760w,
-               /portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/design_hu55c19488003a339f9aa2d869bb4bc270_412543_70d91b6ea9c169490e7ca3bbbfda9b26.webp&#34;
+               /portfolio/touchscreenthimbles/design_huac23f108dd9350c2c47c7e66e57f88f6_1107032_cd7c2ee5889ccf4a0af9c867ed3ecf14.webp 400w,
+               /portfolio/touchscreenthimbles/design_huac23f108dd9350c2c47c7e66e57f88f6_1107032_021402016bc7c1bdf6e9890e375fe3ce.webp 760w,
+               /portfolio/touchscreenthimbles/design_huac23f108dd9350c2c47c7e66e57f88f6_1107032_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/design_huac23f108dd9350c2c47c7e66e57f88f6_1107032_cd7c2ee5889ccf4a0af9c867ed3ecf14.webp&#34;
                width=&#34;760&#34;
-               height=&#34;603&#34;
+               height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -175,14 +175,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_4123f8f48306da06d3cee9ad1e0c65cc.webp 400w,
-               /portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_89aa883d1c253dfb7c8d72a4fca782bb.webp 760w,
-               /portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/touchscreenthimbles/rendition_huac23f108dd9350c2c47c7e66e57f88f6_1107032_4123f8f48306da06d3cee9ad1e0c65cc.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;353&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;rendition.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The design of the thimble consisting of two essential parts, a rigid cylindrical base, and a thin conductive fabric for the finger tip. Developing a proof of concept prototype, with Jeroen Blom, consisting of a rigid base combined with a conductive fabric for the finger tip, to address the limitations we observed with existing approaches.&lt;/p&gt;
