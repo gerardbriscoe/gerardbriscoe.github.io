@@ -5,12 +5,57 @@
     <link>https://gerardbriscoe.github.io/</link>
       <atom:link href="https://gerardbriscoe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Gerard Briscoe</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gerardbriscoe.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Gerard Briscoe</title>
       <link>https://gerardbriscoe.github.io/</link>
     </image>
+    
+    <item>
+      <title>Charge of The Researchers</title>
+      <link>https://gerardbriscoe.github.io/portfolio/chargeoftheresearchers/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://gerardbriscoe.github.io/portfolio/chargeoftheresearchers/</guid>
+      <description>&lt;p&gt;Again, considering the ‘tyranny of measurement’ from ever-increasing KPIs, and as suggested by a colleague &lt;a href=&#34;https://en.wikipedia.org/wiki/Rings_of_Power&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Charge of the Light Brigade poem&lt;/a&gt; as a suitable metaphor, the following emerged:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Half a KPI, half a KPI,&lt;br&gt;
+Half a KPI onward,&lt;br&gt;
+All in the valley of Impact&lt;br&gt;
+Rode the PhDs.&lt;br&gt;
+‘Forward, the Researchers!&lt;br&gt;
+Charge for publication!’ she said:&lt;br&gt;
+Into the valley of Impact&lt;br&gt;
+Rode the PhDs.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Charge of The Light Brigade&#34; srcset=&#34;
+               /portfolio/chargeoftheresearchers/cotlb_hu6b64253c843e063b70f3966f81afe180_223909_6c3526bd1164de93a76f53adb607b585.webp 400w,
+               /portfolio/chargeoftheresearchers/cotlb_hu6b64253c843e063b70f3966f81afe180_223909_f82b7b413f72ad53a5dbdd29dd3259df.webp 760w,
+               /portfolio/chargeoftheresearchers/cotlb_hu6b64253c843e063b70f3966f81afe180_223909_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://gerardbriscoe.github.io/portfolio/chargeoftheresearchers/cotlb_hu6b64253c843e063b70f3966f81afe180_223909_6c3526bd1164de93a76f53adb607b585.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;462&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bye Bye Trump</title>
@@ -75,8 +120,6 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This was a simple web site/app speaking to the moment at the time. In hindsight, the presumption there would not be a coup, which would have invalidated the website seems naive.&lt;/p&gt;
 </description>
     </item>
     
@@ -116,8 +159,6 @@
 &lt;/p&gt;
 &lt;p&gt;There is a lack of graphs focusing on cities in the Covid pandemic, especially in showing their current and trending situation. So, &lt;a href=&#34;https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/research-projects/2018-projects/global-healthcare-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;past research&lt;/a&gt;, on identifying key cities for creating global indices, was used to include a selection of 7 cities per region based upon Loughborough University’s &lt;a href=&#34;https://www.lboro.ac.uk/gawc/world2018link.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Link Classification&lt;/a&gt; (connectivity), nation diversity, as well as city, national and regional contributions to Global Domestic Product (GDP).&lt;/p&gt;
 &lt;p&gt;Modified version of the graph created by &lt;a href=&#34;https://aatishb.com/covidtrends/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aatish Bhatia&lt;/a&gt; in collaboration with &lt;a href=&#34;https://www.youtube.com/user/minutephysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minute Physics&lt;/a&gt;. This graph was chosen as it effectively represents &lt;strong&gt;exponential growth&lt;/strong&gt; trends, which is perhaps the most &lt;a href=&#34;https://www.youtube.com/watch?v=Kas0tIxDvrg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenging aspect of pandemics&lt;/a&gt;. The short explainer video is a clip from Minute Physics &lt;a href=&#34;https://www.youtube.com/watch?v=54XLXg4fYsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explainer video&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Even now, with lockdown lifted, the geographical unit of most interest is the city. The &lt;a href=&#34;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weekly ONS data&lt;/a&gt; often provides regional estimates, including the city of London. In developing the site I had to significantly develop my parallel processing skills to be able to process the multitude of data sources in a reasonable timeframe for regular updates.&lt;/p&gt;
 </description>
     </item>
     
@@ -163,8 +204,6 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This has so far aged well, and will presumably be applicable for some time. A major change in academia would be required to invalidate it, either in terms of terminology or the abandonment of KPIs.&lt;/p&gt;
 </description>
     </item>
     
@@ -233,8 +272,6 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;I subsequently considered creating a more graphical interface, which could show the hierarchy of ownership. I first made use of &lt;a href=&#34;https://d3js.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D3&lt;/a&gt;, before concluding it would probably be better to make a native app.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Unlike most web apps and other websites, it has thus far not needed any maintenance or updating. This is primarily because it was built with minimalist user interface technologies, and the underlying technologies (APIs) for functionality have remained stable, providing then a significant degree of future proofing.&lt;/p&gt;
 </description>
     </item>
     
@@ -272,8 +309,6 @@ In the Land of Evaluation where the Impacts lie.&lt;/strong&gt;&lt;/em&gt;&lt;/p
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;90 Year Phone, which bridged a 1920s Bakelite phone and 2010s VoIP telephony. Specifically, a black GPO 162/232 Bakelite telephone, a iPod Touch (6th generation), and Bluetooth to landline adapter. Asking Siri to place a VoIP call on an almost antique phone is quite a surreal experience. Specifically, picking up the Bakelite receiver and saying &amp;lsquo;Hey Siri&amp;rsquo; was most unusual.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This was a second prototype in creating traditional interfaces to modern technology, making it more accessible when modern interfaces are not preferred. I considered an even older &amp;lsquo;candlestick&amp;rsquo; phone from the 1910s, but it was cost prohibitive, and using replicas would have invalidated the concept.&lt;/p&gt;
 </description>
     </item>
     
@@ -313,9 +348,6 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;My first Haiku modified from the &lt;a href=&#34;http://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original longer version&lt;/a&gt;. I felt the format would be best supported by an explanatory image, which I subsequently also applied to the original poem.&lt;/p&gt;
-&lt;p&gt;While 5G was not available anywhere in the UK when I wrote this, and remains unavailable in the highlands. In time when it becomes more widely used, I would likely feel the need to update the Haiku.&lt;/p&gt;
 </description>
     </item>
     
@@ -411,8 +443,6 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The front thimble showing a rigid base made from antler combined with a grey conductive fabric tip.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This interestingly developed into a research paper, and the prototype supported dual dissemination (academic and general public).&lt;/p&gt;
 </description>
     </item>
     
@@ -450,8 +480,6 @@ Edge, so despise thee.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;30 Year Phone, which bridged a 1970s (GPO) phone and 2000s (bluetooth) telephony. Specifically, a red GPO 746 Telephone, and a Bluetooth to landline adapter. A pulse to tone converter allows dialling from the phone to a mobile line. It also includes a ring capacitor which allows it to ring as expected. Finished with a custom traditional label, replacing the beginning of the dial code with the location, in this case London for 020.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This was a first prototype at creating traditional interfaces to modern technology, making it more accessible when modern interfaces are not preferred.&lt;/p&gt;
 </description>
     </item>
     
@@ -513,8 +541,6 @@ So Lord, won&amp;rsquo;t you buy me an iPhone [x]S?&lt;/strong&gt;&lt;/em&gt;&lt
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;While the lyric, with the variable &amp;lsquo;x&amp;rsquo;, worked for the then current generation, and the previous two generations, it never worked again due the Apple&amp;rsquo;s change in the naming strategy of their iPhones.&lt;/p&gt;
 </description>
     </item>
     
@@ -555,36 +581,6 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;While 5G was not available anywhere in the UK when I wrote this, and remains unavailable in the highlands (as shown in the coverage summary below). In time when it becomes more widely used, I would likely feel the need to update the poem.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Highland Coverage Check&#34; srcset=&#34;
-               /portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_4a7ce411bf4d9769c1fcb2dedd836532.webp 400w,
-               /portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_b355a38349603513e67114ed24c0dae4.webp 760w,
-               /portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://gerardbriscoe.github.io/portfolio/mobileinterentofthehighlands/check_hu1f62bab6fb21d71c709d7ad91e338af5_23099_4a7ce411bf4d9769c1fcb2dedd836532.webp&#34;
-               width=&#34;541&#34;
-               height=&#34;358&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
 </description>
     </item>
     
@@ -622,8 +618,6 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;The prototype was created before any corporations (e.g. Siemens) issued out-of-hours email bans. Also, before email providers such as Google offered at least the outgoing functionality. I initially struggled with overcoming the IMAP protocol ‘immutability’ problem, which intends to ensure that the date and time that email is sent is immutable. I subsequently developed a dual-buffer approach to overcome this problem, and in doing so effectively created a way to change the date and time of sent and received email.&lt;/p&gt;
 </description>
     </item>
     
@@ -682,8 +676,6 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;design.mp4&#34; alt=&#34;Digital Envisagement&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;The envisagement proved an effective provocation of what social-sustainability means in more tangible terms. It also supported dual dissemination for research conferences and exhibitions, one during Milan design week.&lt;/p&gt;
 </description>
     </item>
     
@@ -724,8 +716,6 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Some consider that craftsmanship embodies the conflict between autonomy and authority. The need to be a free self-determined creator, and the equal need for that creativity to be measured against collectively-agreed upon standards of excellence. This connects craftsmanship to the tradition of upholding standards and taking time, as a source of respect and self-worth. Among those standards are the tools and practices used in crafting.&lt;/p&gt;
 &lt;p&gt;It has been considered that thinking through the tools we use encourages us to cultivate a form of material consciousness. So, we should consider that to use a machine is to judge its powers, fashion its uses, in light of our limits rather than its potential. We should feel the material specificity of the medium we handle, to appreciate the incompleteness, the possibility, of a design that is not provided by a machine as a fait accompli. Furthermore, asserting our own individuality against the prepackaged, predetermined limitations of the tools we use. Therefore, a significant element of craftsmanship is being a toolsmith to adapt and develop one&amp;rsquo;s own tools.&lt;/p&gt;
 &lt;p&gt;We considered precision soldering for crafting digitally enabled artefacts, which necessitated the creation of a prototype precision soldering iron. This was for use in modifying electrical components, beyond a craftsperson&amp;rsquo;s skill of precision soldering. The prototype was made from combining a soldering iron with a modified drill stand, proving affective for its intended use.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This was an important project in demonstrating that my digital making skills include hardware, as well as software.&lt;/p&gt;
 </description>
     </item>
     
@@ -782,8 +772,6 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The narrative of an eternal battle between good and evil can now appear indicative of the constant challenge of managing email in Digital Cultures. With the unread count being an eternal evil that can never be fully defeated. So, how might we represent an inbox spiralling out of control?&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Given the generally ever-increasingly worsening state of email, this seems to gain ever greater relevance conceptually.&lt;/p&gt;
 </description>
     </item>
     
@@ -853,8 +841,6 @@ How I despise thee!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;font-colord7bb02familyfont-font-color2f6595workfont-font-color9b1001friendsfont&#34;&gt;&lt;strong&gt;&lt;font color=&#34;#D7BB02&#34;&gt;Family&lt;/font&gt; &lt;font color=&#34;#2F6595&#34;&gt;Work&lt;/font&gt; &lt;font color=&#34;#9B1001&#34;&gt;Friends&lt;/font&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;I regret having not pursued this further, but then I had colleagues at the time with shared interests and relevant experience. We even progressed to making a conference submission, but ultimately did not have funding to attend. Since then, while I have experimented with some code to make a working prototype, I have struggled to find suitable javascript graphics libraries which would support the required motion/animation.&lt;/p&gt;
 </description>
     </item>
     

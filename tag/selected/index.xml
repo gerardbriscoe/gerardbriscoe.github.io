@@ -48,8 +48,6 @@
 &lt;/p&gt;
 &lt;p&gt;There is a lack of graphs focusing on cities in the Covid pandemic, especially in showing their current and trending situation. So, &lt;a href=&#34;https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/research-projects/2018-projects/global-healthcare-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;past research&lt;/a&gt;, on identifying key cities for creating global indices, was used to include a selection of 7 cities per region based upon Loughborough University’s &lt;a href=&#34;https://www.lboro.ac.uk/gawc/world2018link.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Link Classification&lt;/a&gt; (connectivity), nation diversity, as well as city, national and regional contributions to Global Domestic Product (GDP).&lt;/p&gt;
 &lt;p&gt;Modified version of the graph created by &lt;a href=&#34;https://aatishb.com/covidtrends/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aatish Bhatia&lt;/a&gt; in collaboration with &lt;a href=&#34;https://www.youtube.com/user/minutephysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minute Physics&lt;/a&gt;. This graph was chosen as it effectively represents &lt;strong&gt;exponential growth&lt;/strong&gt; trends, which is perhaps the most &lt;a href=&#34;https://www.youtube.com/watch?v=Kas0tIxDvrg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenging aspect of pandemics&lt;/a&gt;. The short explainer video is a clip from Minute Physics &lt;a href=&#34;https://www.youtube.com/watch?v=54XLXg4fYsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;explainer video&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Even now, with lockdown lifted, the geographical unit of most interest is the city. The &lt;a href=&#34;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weekly ONS data&lt;/a&gt; often provides regional estimates, including the city of London. In developing the site I had to significantly develop my parallel processing skills to be able to process the multitude of data sources in a reasonable timeframe for regular updates.&lt;/p&gt;
 </description>
     </item>
     
@@ -118,8 +116,6 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;I subsequently considered creating a more graphical interface, which could show the hierarchy of ownership. I first made use of &lt;a href=&#34;https://d3js.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D3&lt;/a&gt;, before concluding it would probably be better to make a native app.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;Unlike most web apps and other websites, it has thus far not needed any maintenance or updating. This is primarily because it was built with minimalist user interface technologies, and the underlying technologies (APIs) for functionality have remained stable, providing then a significant degree of future proofing.&lt;/p&gt;
 </description>
     </item>
     
@@ -215,8 +211,6 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The front thimble showing a rigid base made from antler combined with a grey conductive fabric tip.&lt;/p&gt;
-&lt;h3 id=&#34;critical-reflection&#34;&gt;Critical Reflection&lt;/h3&gt;
-&lt;p&gt;This interestingly developed into a research paper, and the prototype supported dual dissemination (academic and general public).&lt;/p&gt;
 </description>
     </item>
     
